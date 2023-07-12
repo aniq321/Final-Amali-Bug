@@ -1,5 +1,4 @@
 <?php
-require_once(includes/maintenance.php);
 require_once('includes/functions.php');
 
 $from_value = '';
